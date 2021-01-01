@@ -1,0 +1,3 @@
+echo Starting. Please wait...
+sudo apt update && sudo apt install firefox-esr -y
+echo Complete. Closing in 10 seconds
